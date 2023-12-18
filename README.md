@@ -1,13 +1,16 @@
-WELCOME TO THE <<<<<<<<<<<<<================= Spring Boot APP ================>>>>>>> Invetory Management System
+WELCOME TO THE  Spring Boot APP ================>>>>>>> Invetory Management System
 
  This app can allows a business owner to create and maintain a list of products they sell, a list of their customers and also generate sales and purchase orders for the customer and business owner.
+
+
+ Below a quick demo in screenshoots
 
 
  1.If you click on 1
 
 ![Databrick project with Snowflake](sreeshots/Screenshot7.png)
 
-2.Then you can do the crud on product
+You can do the crud on product
 
 ![Databrick project with Snowflake](sreeshots/Screenshot3.png)
 
@@ -19,7 +22,7 @@ The added Product
 
 ![Databrick project with Snowflake](sreeshots/Screenshot7.png)
 
-2.Then you can do the crud on (CRM)(Customer Relotionship Management)
+Then you can do the crud on (CRM)(Customer Relotionship Management)
 
 ![Databrick project with Snowflake](sreeshots/Screenshot5.png)
 
