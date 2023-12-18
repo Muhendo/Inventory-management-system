@@ -1,3 +1,3 @@
 
 
-sreeshots/Screenshot1.png
+![Databrick project with Snowflake](sreeshots/Screenshot1.png)
