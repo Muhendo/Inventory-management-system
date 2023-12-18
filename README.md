@@ -1,7 +1,13 @@
-WELCOME TO THE  Spring Boot APP ================>>>>>>> Invetory Management System
+WELCOME TO THE  Spring Boot APP << Invetory Management System >>
+
+Done by Mugisa Muhendo Jonathan #24285
+
+For Web Tech Final Project
 
  This app can allows a business owner to create and maintain a list of products they sell, a list of their customers and also generate sales and purchase orders for the customer and business owner.
 
+Tech & framework used
+Spring Boot,Java,Maven,MYSQL,Bootstrap
 
  Below a quick demo in screenshoots
 
